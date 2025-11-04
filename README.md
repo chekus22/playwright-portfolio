@@ -26,3 +26,7 @@ Bienvenue sur mon projet **Playwright Portfolio**, un espace où je documente ma
 ---
 
 > _Apprendre en découpant les problèmes simples, comme le recommande Pavel Dourov._
+## 📘 Bloc 2 : Mes projets Playwright
+
+Découvrez mes tests automatisés et mes exercices réalisés avec Playwright :
+👉 [Voir les projets](./docs/02-projets-playwright/index.md)
